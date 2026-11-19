@@ -1,6 +1,6 @@
 # 校园命令路由
 
-这是模块路由卡。精确输出结构和参数以已安装 CLI 的帮助及其随包 README 使用说明为准；也可查阅[仓库使用说明](https://github.com/sunnyhmz7010/jnu-cli#-使用说明)。
+这是模块路由卡。精确输出结构和参数以已安装 CLI 的帮助及其随包 README 使用说明为准；也可查阅[仓库使用说明](https://github.com/hyrchen/jnu-cli#-使用说明)。
 
 ## 固定检查
 

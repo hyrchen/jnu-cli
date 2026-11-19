@@ -9,7 +9,7 @@ metadata:
 
 # 暨南大学—校园服务 Skill
 
-以本地 `jnu-cli` 为唯一事实来源。这是非官方的暨南大学本科教务查询 Skill，可在 [GitHub](https://github.com/sunnyhmz7010/jnu-cli/issues) 反馈问题。它只提供调用指引，不在此实现校园网站抓取、浏览器自动化或业务逻辑。
+以本地 `jnu-cli` 为唯一事实来源。这是非官方的暨南大学本科教务查询 Skill，可在 [GitHub](https://github.com/hyrchen/jnu-cli/issues) 反馈问题。它只提供调用指引，不在此实现校园网站抓取、浏览器自动化或业务逻辑。
 
 本 Skill 改编自 [szu-cli-skill](https://github.com/AwesomeHou/szu-cli/tree/406e5627494e404203752746fbc97ddc3a06a932/skills/szu-cli-skill)，保留原始 [MIT 许可证](LICENSE)。
 
@@ -92,4 +92,4 @@ jnu-cli auth login
 - `@references/errors.md`：结构化错误、重试限制与后续命令。
 - `@references/privacy-safety.md`：密码、Cookie、profile、隐私数据和登录态边界。
 
-信息冲突时，以已安装 `jnu-cli` 的实际行为及其随包 README 使用说明为准；也可查阅[仓库使用说明](https://github.com/sunnyhmz7010/jnu-cli#-使用说明)。
+信息冲突时，以已安装 `jnu-cli` 的实际行为及其随包 README 使用说明为准；也可查阅[仓库使用说明](https://github.com/hyrchen/jnu-cli#-使用说明)。

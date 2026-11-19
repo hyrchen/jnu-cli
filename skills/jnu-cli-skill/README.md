@@ -1,6 +1,6 @@
 # 暨南大学—校园服务 Skill
 
-这是 `jnu-cli` 配套的 Codex/Agent Skill，用来告诉 agent 如何安全地调用暨南大学本科教务 CLI。该项目非学校官方项目，可在 [GitHub](https://github.com/sunnyhmz7010/jnu-cli/issues) 反馈问题。核心业务逻辑在 `jnu-cli` 内，Skill 只保存使用说明、命令路由和安全边界。
+这是 `jnu-cli` 配套的 Codex/Agent Skill，用来告诉 agent 如何安全地调用暨南大学本科教务 CLI。该项目非学校官方项目，可在 [GitHub](https://github.com/hyrchen/jnu-cli/issues) 反馈问题。核心业务逻辑在 `jnu-cli` 内，Skill 只保存使用说明、命令路由和安全边界。
 
 本目录改编自 [szu-cli-skill](https://github.com/AwesomeHou/szu-cli/tree/406e5627494e404203752746fbc97ddc3a06a932/skills/szu-cli-skill)，原始内容遵循 [MIT 许可证](LICENSE)。
 

@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sunnyhmz7010/jnu-cli/releases"><img src="https://img.shields.io/github/v/release/sunnyhmz7010/jnu-cli?label=Release&amp;color=3b82f6" alt="Release" /></a>
-  <a href="https://github.com/sunnyhmz7010/jnu-cli/blob/main/LICENSE"><img src="https://img.shields.io/github/license/sunnyhmz7010/jnu-cli?color=10b981" alt="License" /></a>
+  <a href="https://github.com/hyrchen/jnu-cli/releases"><img src="https://img.shields.io/github/v/release/hyrchen/jnu-cli?label=Release&amp;color=3b82f6" alt="Release" /></a>
+  <a href="https://github.com/hyrchen/jnu-cli/blob/main/LICENSE"><img src="https://img.shields.io/github/license/hyrchen/jnu-cli?color=10b981" alt="License" /></a>
 </p>
 
 ---
@@ -988,7 +988,7 @@ jnu-cli/
 ### ⚙️ 命令
 
 ```bash
-git clone https://github.com/sunnyhmz7010/jnu-cli.git
+git clone https://github.com/hyrchen/jnu-cli.git
 cd jnu-cli
 npm ci
 npm run jnu-cli -- --help
